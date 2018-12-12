@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544582513,
+	"version": 1544583531,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,7 @@
 		"images/deathrocklet-sheet0.png",
 		"images/btnpause-sheet0.png",
 		"images/btnsound-sheet0.png",
+		"images/btnsound-sheet1.png",
 		"images/overlay.png",
 		"images/lostmenu-sheet0.png",
 		"images/playagainbtn.png",
